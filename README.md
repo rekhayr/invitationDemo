@@ -1,2 +1,0 @@
-# invitationDemo
-Created with CodeSandbox
